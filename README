@@ -1,0 +1,8 @@
+this repository tries to offer some statically linked linux apps.
+
+coz sometimes there are situations when you either can't compile them yourself or get them from your distribution repo.
+or you just dont have the time for it.
+
+currently we feature goodies such as gcc 4.6.0 prebuilt.
+
+all binaries are virus-checked with the latest kaspersky enterprise.
