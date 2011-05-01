@@ -6,3 +6,6 @@ or you just dont have the time for it.
 currently we feature goodies such as gcc 4.6.0 prebuilt.
 
 all binaries are virus-checked with the latest kaspersky enterprise.
+
+note: to run midnight commander, you have to unpack the archive into /opt, and ncurses as well.
+MC stupidly hardcoded all paths into the binary.
